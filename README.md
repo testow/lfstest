@@ -1,0 +1,2 @@
+# lfstest
+test lfs
